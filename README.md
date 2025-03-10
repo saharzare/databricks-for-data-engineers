@@ -19,3 +19,11 @@ Databricks is a cloud-based platform built on **Apache Spark** that allows for s
 - Integrates with **AWS, Azure, and GCP**
 
 ---
+## ⚡ 2. Delta Lake – The Smarter Data Lake
+Delta Lake improves traditional data lakes by adding reliability and performance.
+
+### 🔹 Key Features:
+✅ **ACID Transactions** – Ensures consistency in data updates  
+✅ **Time Travel** – Access older versions of data  
+✅ **Schema Evolution** – Allows column modifications  
+✅ **Performance Boost** – Faster queries with indexing & caching  
