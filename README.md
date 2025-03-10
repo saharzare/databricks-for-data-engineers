@@ -2,8 +2,10 @@
 
 A minimal guide to essential Databricks concepts for Data Engineers.
 **Data Engineering in Databricks** – refers to the process of building, managing, and optimizing data pipelines for large-scale data processing, transformation, and storage. It enables businesses to efficiently move and process data for analytics and machine learning.
+
 ## Why Use Databricks for Data Engineering?
-🚀 Scalability – Handles massive datasets with distributed computing.
+
+🚀 **Scalability** – Handles massive datasets with distributed computing.
 
 ⚡ **Fast Processing**– Optimized Spark engine speeds up data operations.
 
