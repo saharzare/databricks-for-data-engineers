@@ -17,7 +17,7 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 ## Key Responsibilities of a Data Engineer in Databricks
 ✅ **Ingest Data** – Load structured and unstructured data from various sources (APIs, Onpremis databases, files, streaming,Datalake)
 
-✅ **Transform & Process Data** – Use Apache Spark (PySpark, SQL) to clean, aggregate, and structure data, handling missing values
+✅ **Transform & Process Data** – Use Apache Spark (PySpark, SQL) to clean, aggregate to structure data, handling missing values(find and fill)
 
 ✅ **Store Data Efficiently** – Utilize Delta Lake for ACID transactions, schema evolution, and time travel
 
@@ -26,6 +26,9 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 ✅ **Manage Data Pipelines** – Automate workflows using Databricks Workflows (formerly Jobs)
 
 ✅ **Ensure Data Governance & Security** – Implement role-based access control (RBAC) and encryption
+
+![image](https://github.com/user-attachments/assets/ef6b0627-d47b-444f-8030-a0b14f8b76c2)
+
 
 ## 📌 Topics Covered
 
