@@ -28,6 +28,7 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 ✅ **Ensure Data Governance & Security** – Implement role-based access control (RBAC) and encryption
 
 ![image](https://github.com/user-attachments/assets/ef6b0627-d47b-444f-8030-a0b14f8b76c2)
+![image](https://github.com/user-attachments/assets/9e1c4c19-e74f-4294-b675-bba892b9f460)
 
 
 ## 📌 Topics Covered
