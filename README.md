@@ -27,3 +27,51 @@ Delta Lake improves traditional data lakes by adding reliability and performance
 ✅ **Time Travel** – Access older versions of data  
 ✅ **Schema Evolution** – Allows column modifications  
 ✅ **Performance Boost** – Faster queries with indexing & caching  
+**Example Usage (SQL in Databricks):**
+```sql
+CREATE TABLE events (
+  event_id STRING,
+  event_type STRING
+) USING DELTA;
+```
+```sql
+SELECT * FROM events VERSION AS OF 5;
+```
+
+---
+
+## 🛠️ 3. Querying Data in Databricks
+Databricks supports both **SQL and PySpark** for querying data.
+
+**SQL Example:**
+```sql
+SELECT name, age FROM customers WHERE age > 25;
+```
+**PySpark Example:**
+```python
+df = spark.read.format("delta").load("/mnt/data/customers")
+df.filter(df.age > 25).show()
+```
+---
+
+## 🏗️ 4. Data Warehouse vs Data Lake vs Data Lakehouse
+
+| Feature         | Data Warehouse  | Data Lake       | Data Lakehouse  |
+|---------------|---------------|----------------|----------------|
+| **Definition**  | Structured storage for analytics | Stores raw data in any format | Combines features of both |
+| **Data Type**   | Structured (SQL) | Unstructured & Structured | Structured & Semi-structured |
+| **Performance** | Fast but expensive | Cheap but slow | Balanced |
+| **Examples**    | Snowflake, Redshift | S3, ADLS | Databricks, Snowflake |
+
+---
+
+## ✅ 5. Best Practices
+- **Optimize Performance** – Use caching & partitioning
+- **Manage Costs** – Auto-terminate clusters
+- **Secure Data** – Implement role-based access & encryption
+
+---
+
+## 📚 Resources
+- [Official Databricks Documentation](https://docs.databricks.com/)
+- [Delta Lake Documentation](https://delta.io/)
