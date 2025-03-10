@@ -1,6 +1,11 @@
-## What is Databricks?
-Databricks is a cloud-based platform built on Apache Spark that helps process and analyze big data. It combines data engineering, machine learning, and analytics in one place.
-### Why use it?
-Runs large-scale data processing efficiently.
-Supports Python, SQL, Scala, R for data analysis.
-Built-in Delta Lake for reliable data storage.
+# 🚀 Databricks for Data Engineers
+
+A minimal guide to essential Databricks concepts for Data Engineers.
+
+## 📌 Topics Covered
+
+- **Databricks Overview** – What it is and why use it
+- **Delta Lake** – ACID transactions, schema evolution, and time travel
+- **Querying Data** – SQL vs PySpark in Databricks
+- **Data Warehouse vs Data Lake vs Data Lakehouse** – Key differences
+- **Best Practices** – Performance tuning, security, and cost management
