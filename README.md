@@ -29,7 +29,7 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 
 
 ![image](https://github.com/user-attachments/assets/1fdef764-1957-4988-ac6b-a60558ccc9e9)
-**Transforming eaw data to reliable data**: - data extraction from diverse sourses, cleansing to remove inconsitencies, transforming to convert into a structured and usable format
+**Transforming raw data to reliable data**: - data extraction from diverse sourses, cleansing to remove inconsitencies, transforming to convert into a structured and usable format
 
 **Ensuring thr quality and integrity of data**: - Develop processes to monitore and maintain the accuracy and consitency
 
