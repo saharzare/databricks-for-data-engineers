@@ -27,11 +27,13 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 
 ✅ **Ensure Data Governance & Security** – Implement role-based access control (RBAC) and encryption
 
-**Transforming eaw data to reliable data**: - data extraction from diverse sourses, cleansing to remove inconsitencies, transforming to convert into a structured and usable format
-**Ensuring thr quality and integrity of data**: - Develop processes to monitore and maintain the accuracy and consitency
-**Design and maintain a data pipeline**: - pathways through which data flows from various sources to storage and analythical tools, create , optimize and automate these pipleline
-![image](https://github.com/user-attachments/assets/1fdef764-1957-4988-ac6b-a60558ccc9e9)
 
+![image](https://github.com/user-attachments/assets/1fdef764-1957-4988-ac6b-a60558ccc9e9)
+**Transforming eaw data to reliable data**: - data extraction from diverse sourses, cleansing to remove inconsitencies, transforming to convert into a structured and usable format
+
+**Ensuring thr quality and integrity of data**: - Develop processes to monitore and maintain the accuracy and consitency
+
+**Design and maintain a data pipeline**: - pathways through which data flows from various sources to storage and analythical tools, create , optimize and automate these pipleline
 
 ## 📌 Topics Covered
 
