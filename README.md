@@ -47,7 +47,7 @@ Databricks is a cloud-based platform built on **Apache Spark** that allows for s
 
 ---
 ## ⚡ 2. Delta Lake – The Smarter Data Lake
-Delta Lake improves traditional data lakes by adding reliability and performance.
+Delta Lake improves traditional data lakes by adding reliability and performance, it keeps the track of all the transactions on a data, parquet files and table versions. Delta tables stored data within a folder directory, within the directory data is stored in parquet file and what data adds is Delta **logs** as **Json** files alongside the parquet files and delta logs keep track of all transaction on data, parquet files and version tables.
 
 ### 🔹 Key Features:
 ✅ **ACID Transactions** – Ensures consistency in data updates  
