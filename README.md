@@ -3,7 +3,11 @@
 A minimal guide to essential Databricks concepts for Data Engineers.
 
 **Data Engineering in Databricks** – refers to the process of building, managing, and optimizing data pipelines for large-scale data processing, transformation, and storage. It enables businesses to efficiently move and process data for analytics and machine learning.
+**Transforming raw data to reliable data**: - data extraction from diverse sourses, cleansing to remove inconsitencies, transforming to convert into a structured and usable format
 
+**Ensuring thr quality and integrity of data**: - Develop processes to monitore and maintain the accuracy and consitency
+
+**Design and maintain a data pipeline**: - pathways through which data flows from various sources to storage and analythical tools, create , optimize and automate these pipleline
 ## Why Use Databricks for Data Engineering?
 
 🚀 **Scalability** – Handles massive datasets with distributed computing.
@@ -27,13 +31,7 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 
 ✅ **Ensure Data Governance & Security** – Implement role-based access control (RBAC) and encryption
 
-
 ![image](https://github.com/user-attachments/assets/1fdef764-1957-4988-ac6b-a60558ccc9e9)
-**Transforming raw data to reliable data**: - data extraction from diverse sourses, cleansing to remove inconsitencies, transforming to convert into a structured and usable format
-
-**Ensuring thr quality and integrity of data**: - Develop processes to monitore and maintain the accuracy and consitency
-
-**Design and maintain a data pipeline**: - pathways through which data flows from various sources to storage and analythical tools, create , optimize and automate these pipleline
 
 ## 📌 Topics Covered
 
