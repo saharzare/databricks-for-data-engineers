@@ -108,3 +108,4 @@ df.filter(df.age > 25).show()
 ## 📚 Resources
 - [Official Databricks Documentation](https://docs.databricks.com/)
 - [Delta Lake Documentation](https://delta.io/)
+- https://candle-gosling-511.notion.site/Core-Databricks-concepts-for-DE-2e734b251f128015a204e78e5d7e45b2
