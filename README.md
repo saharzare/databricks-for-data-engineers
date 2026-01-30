@@ -83,6 +83,9 @@ df = spark.read.format("delta").load("/mnt/data/customers")
 df.filter(df.age > 25).show()
 ```
 ---
+## 3.1 PySpark & SQL Operations
+<img width="1592" height="508" alt="image" src="https://github.com/user-attachments/assets/cf488f11-c792-4c03-865a-f8ed217ae57b" />
+
 
 ## 🏗️ 4. Data Warehouse vs Data Lake vs Data Lakehouse
 
