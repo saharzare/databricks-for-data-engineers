@@ -36,6 +36,9 @@ A minimal guide to essential Databricks concepts for Data Engineers.
 - **Querying Data** – SQL vs PySpark in Databricks
 - **Data Warehouse vs Data Lake vs Data Lakehouse** – Key differences
 - **Best Practices** – Performance tuning, security, and cost management
+If you are using databricks the main thing you should know about the structure:
+<img width="1115" height="698" alt="image" src="https://github.com/user-attachments/assets/9a353f1f-47e5-4de4-8b8e-b4bc102c9e87" />
+
 ---
 
 ## 🔥 1. What is Databricks?
