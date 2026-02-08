@@ -1,5 +1,8 @@
 📊 Data Pipeline Architecture (Databricks)
 
+## Why This Architecture?
+This design ensures scalability, fault isolation, and supports analytics and BI workloads using a modern Lakehouse approach.
+
 🔹 Overview
 
 This project implements a multi-layer data pipeline (Bronze → Silver → Gold) in Databricks to process raw operational data and transform it into analytics-ready datasets.The pipeline is executed as a dependency-based Databricks Job (DAG), where each task runs only after its upstream dependencies have completed successfully.
