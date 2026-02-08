@@ -44,9 +44,9 @@ Downstream tasks execute only if upstream tasks succeed
 
 🛠 Technologies
 Databricks
-Apache Spark
+pyspark
 Delta Lake
-GitHub (Version Control)
+GitHub
 
 ✅ Status
 Latest run: Successful
