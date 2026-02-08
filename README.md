@@ -5,7 +5,7 @@ This design ensures scalability, fault isolation, and supports analytics and BI 
 
 🔹 Overview
 
-This project implements a multi-layer data pipeline (Bronze → Silver → Gold) in Databricks to process raw operational data and transform it into analytics-ready datasets.The pipeline is executed as a dependency-based Databricks Job (DAG), where each task runs only after its upstream dependencies have completed successfully.
+This project implements a multi-layer data pipeline (Bronze → Silver → Gold) in Databricks to process raw operational data and transform it into analytics-ready datasets.The pipeline is executed as a dependency-based Databricks Job, where each task runs only after its upstream dependencies have completed successfully.
 
 🥉 Bronze Layer
 Ingests raw data from ERP and CRM source systems
